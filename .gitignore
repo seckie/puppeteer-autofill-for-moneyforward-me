@@ -1,0 +1,63 @@
+*.dcu
+*.dsk
+*.identcache
+__history/
+*.bdsproj.local
+*.bdsgroup.local
+ModelSupport/
+contents/
+*.[0-9]+[a-z]+
+
+# apache log
+_logs/
+logs/
+
+# Xcode
+build/*
+*.pbxuser
+*.mode1v3
+
+# Subversion
+.svn
+
+# Git
+doc/tags
+doc/tags-ja
+
+# OS X
+.DS_Store
+
+# Textmate
+*.tmproj 
+
+# vim
+*.swp
+.netrwhist
+script-names.vim-scripts.org.json
+.vim/dein/*
+
+# Windows
+Thumb.db
+
+# Sass
+.sass-cache
+
+# Dreamweaver
+dwsync.xml
+_notes/
+
+# node applications
+npm-debug.log
+bower_components/
+node_modules/
+.node-version
+
+# PHP
+php_errors.log
+
+# Visual Studio Code
+.vscode
+
+.env
+categories.json
+accounts.json
